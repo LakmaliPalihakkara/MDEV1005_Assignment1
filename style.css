@@ -1,23 +1,15 @@
-/* .container-fluid {
-    overflow: hidden;
-   width: 400px;
-    margin: auto;
-  }
 
-  
-  } */
-
-  .navbar{
+.navbar{
     font-size: large;
     
     
   }
 
-  .nav-link{
+.nav-link{
     color: #463f3a;
   }
 
-  .nav-link:hover {
+.nav-link:hover {
     color: #e0afa0;
   }
 
